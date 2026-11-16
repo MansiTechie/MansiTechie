@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:172554,75:4c1d95,100:0891b2&height=280&section=header&text=MANSI%20SHARMA&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20ENGINEERING%20%C2%B7%20INTELLIGENT%20SYSTEMS&descSize=18&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,75:4c1d95,100:0891b2&height=260&section=header&text=MANSI%20SHARMA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEERING%20%C2%B7%20INTELLIGENT%20SYSTEMS&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+reliable+AI+%26+ML+systems;RAG+%C2%B7+LLMs+%C2%B7+Machine+Learning;Making+AI+answers+more+trustworthy;Learn+deeply.+Experiment+rigorously.+Build+with+purpose." alt="Animated introduction" />
 
@@ -78,18 +78,18 @@ flowchart LR
 
 <br/>
 
-### <img src="https://img.shields.io/badge/02-APPLIED%20AI-06B6D4?style=for-the-badge" />&nbsp; Yantradrishti &nbsp;<img src="https://img.shields.io/badge/-IN%20PROGRESS-F59E0B?style=flat-square" />
+### <img src="https://img.shields.io/badge/02-DIGITAL%20TWINS-06B6D4?style=for-the-badge" />&nbsp; YantraDrishti &nbsp;<img src="https://img.shields.io/badge/-IN%20PROGRESS-F59E0B?style=flat-square" />
 
-> **[ONE-LINE TAGLINE: what Yantradrishti does]**
+> **AI-powered predictive digital twin for smart manufacturing.** Turning manufacturing data into predictions you can act on before problems happen.
 
-<a href="https://github.com/MansiTechie/YOUR_REPO_NAME"><img src="https://img.shields.io/badge/SOURCE-Repository-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/MansiTechie/YantraDrishti"><img src="https://img.shields.io/badge/SOURCE-Repository-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-- [Key feature 1]
-- [Key feature 2]
-- [Key feature 3]
-- [Key feature 4]
+- 🏭 Digital twin of a smart manufacturing process
+- 🔮 Predictive machine learning models built and validated in notebooks
+- 📂 Raw dataset ingestion and preparation pipeline
+- 🛠️ Actively under development
 
-`Tech 1` `Tech 2` `Tech 3`
+`Python` `Jupyter` `Machine Learning` `Digital Twin`
 
 <details>
 <summary><b>▸ View system architecture</b></summary>
@@ -97,7 +97,7 @@ flowchart LR
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#172554','primaryTextColor':'#E2E8F0','primaryBorderColor':'#22D3EE','lineColor':'#A78BFA','secondaryColor':'#0f172a','tertiaryColor':'#020617'}}}%%
 flowchart LR
-    A["Input"] --> B["Processing"] --> C["Model"] --> D["Output"]
+    A["Manufacturing data"] --> B["Preprocessing"] --> C["ML models"] --> D["Predictive digital twin"] --> E["Insights and predictions"]
 ```
 
 </details>
