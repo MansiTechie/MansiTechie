@@ -4,21 +4,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,75:4c1d95,100:0891b2&height=260&section=header&text=MANSI%20SHARMA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEERING%20%C2%B7%20INTELLIGENT%20SYSTEMS&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,40:581c87,75:be185d,100:f97316&height=260&section=header&text=MANSI%20SHARMA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEERING%20%C2%B7%20INTELLIGENT%20SYSTEMS&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+reliable+AI+%26+ML+systems;RAG+%C2%B7+LLMs+%C2%B7+Machine+Learning;Making+AI+answers+more+trustworthy;Learn+deeply.+Experiment+rigorously.+Build+with+purpose." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=850&lines=Building+reliable+AI+%26+ML+systems;RAG+%C2%B7+LLMs+%C2%B7+Machine+Learning;Making+AI+answers+more+trustworthy;Learn+deeply.+Experiment+rigorously.+Build+with+purpose." alt="Animated introduction" />
 
 <br/>
 
 <a href="https://github.com/MansiTechie"><img src="https://img.shields.io/badge/GitHub-MansiTechie-0b1220?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mansi-sharma-539130340/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO-AI%20%2F%20ML%20INTERNSHIPS-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML%20DEVELOPMENT-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-9333EA?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML%20DEVELOPMENT-F97316?style=flat-square" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-F59E0B?style=flat-square" />
 
 <br/><br/>
@@ -50,7 +50,7 @@ I'm an AI/ML developer who enjoys working on the part of AI that matters most in
 
 <br/>
 
-### <img src="https://img.shields.io/badge/01-GENERATIVE%20AI-7C3AED?style=for-the-badge" />&nbsp; Medical RAG &nbsp;<img src="https://img.shields.io/badge/-IN%20PROGRESS-F59E0B?style=flat-square" />
+### <img src="https://img.shields.io/badge/01-GENERATIVE%20AI-9333EA?style=for-the-badge" />&nbsp; Medical RAG &nbsp;<img src="https://img.shields.io/badge/-IN%20PROGRESS-F59E0B?style=flat-square" />
 
 > **Hallucination detection and reliable retrieval.** Making AI answers more grounded in medical document workflows. Research paper in progress.
 
@@ -67,7 +67,7 @@ I'm an AI/ML developer who enjoys working on the part of AI that matters most in
 <summary><b>▸ View system architecture</b></summary>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#172554','primaryTextColor':'#E2E8F0','primaryBorderColor':'#22D3EE','lineColor':'#A78BFA','secondaryColor':'#0f172a','tertiaryColor':'#020617'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#4a1d6b','primaryTextColor':'#E2E8F0','primaryBorderColor':'#F472B6','lineColor':'#FDBA74','secondaryColor':'#2e1065','tertiaryColor':'#1a0b2e'}}}%%
 flowchart LR
     A["PDF documents"] --> B["Chunking"] --> C["Embeddings"] --> D[("FAISS / ChromaDB")]
     Q["User question"] --> R["Semantic retrieval"]
@@ -78,7 +78,7 @@ flowchart LR
 
 <br/>
 
-### <img src="https://img.shields.io/badge/02-DIGITAL%20TWINS-06B6D4?style=for-the-badge" />&nbsp; YantraDrishti &nbsp;<img src="https://img.shields.io/badge/-IN%20PROGRESS-F59E0B?style=flat-square" />
+### <img src="https://img.shields.io/badge/02-DIGITAL%20TWINS-F97316?style=for-the-badge" />&nbsp; YantraDrishti &nbsp;<img src="https://img.shields.io/badge/-IN%20PROGRESS-F59E0B?style=flat-square" />
 
 > **AI-powered predictive digital twin for smart manufacturing.** Turning manufacturing data into predictions you can act on before problems happen.
 
@@ -95,7 +95,7 @@ flowchart LR
 <summary><b>▸ View system architecture</b></summary>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#172554','primaryTextColor':'#E2E8F0','primaryBorderColor':'#22D3EE','lineColor':'#A78BFA','secondaryColor':'#0f172a','tertiaryColor':'#020617'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#4a1d6b','primaryTextColor':'#E2E8F0','primaryBorderColor':'#F472B6','lineColor':'#FDBA74','secondaryColor':'#2e1065','tertiaryColor':'#1a0b2e'}}}%%
 flowchart LR
     A["Manufacturing data"] --> B["Preprocessing"] --> C["ML models"] --> D["Predictive digital twin"] --> E["Insights and predictions"]
 ```
@@ -162,23 +162,23 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/MansiTechie">
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiTechie&theme=tokyonight" alt="GitHub profile details" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MansiTechie&theme=radical" alt="GitHub profile details" />
 </a>
 
 <a href="https://github.com/MansiTechie">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MansiTechie&theme=tokyonight" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MansiTechie&theme=radical" alt="Repos per language" />
 </a>
 <a href="https://github.com/MansiTechie">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MansiTechie&theme=tokyonight" alt="Most commit language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MansiTechie&theme=radical" alt="Most commit language" />
 </a>
 
 <a href="https://github.com/MansiTechie">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MansiTechie&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MansiTechie&theme=radical" alt="GitHub stats" />
 </a>
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=MansiTechie&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=MansiTechie&theme=radical&hide_border=true&background=1a0b2e&ring=F472B6&fire=F97316&currStreakLabel=F472B6" alt="GitHub contribution streak" />
 
 </div>
 
@@ -216,11 +216,11 @@ Open to conversations around AI/ML, GenAI, RAG systems, and applied research.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MansiTechie&style=for-the-badge&color=0891B2&label=VISITORS" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=MansiTechie&style=for-the-badge&color=DB2777&label=VISITORS" alt="Profile visitors" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4c1d95,100:020617&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:be185d,100:1a0b2e&height=140&section=footer" width="100%" />
 
 <sub>ENGINEERED WITH CURIOSITY · POWERED BY CONSISTENCY</sub>
 
